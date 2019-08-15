@@ -1,3 +1,5 @@
 print("hello")
 print("haha")
 print("hehe")
+print("nihaokunkun")
+print("nihaokunkun11")
